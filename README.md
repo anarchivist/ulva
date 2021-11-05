@@ -6,7 +6,7 @@
        banner="http://web.stanford.edu/group/seanet/images/rocky_shore400.jpg"
        layout="vertical">
 
-<param ve-entity eid="Q3808874" title="Chtamalus spp">
+<param ve-entity eid="Q3808874" title="Chthamalus spp.">
 <param ve-entity eid="Q3809072"><!-- Balanus glandula -->
 <param ve-entity eid="Q4301570"><!-- Tetraclita rubescens -->
 <param ve-entity eid="Q3169649"><!-- Littorina keenae -->
@@ -18,7 +18,8 @@
 
 Mostly bare rock at upper limits; patchy cover of hearty red algae, barnacles, & limpets
 
-* Chthamalus spp. - acorn barnacle
+Chthamalus spp. - acorn barnacle
+
 * Balanus glandula - acorn barnacle
 * Tetraclita rubescens - red barnacle
 * Littorina keenae - large periwinkle
